@@ -167,7 +167,6 @@ ollama pull <model-name>
 
 ## Possible Improvements
 
-* Add a web interface using Streamlit or FastAPI
 * Implement conversation memory
 * Add filtering using metadata
 * Support multiple datasets
